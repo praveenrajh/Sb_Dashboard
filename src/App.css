@@ -1,0 +1,27 @@
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.contMain{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.cont1{
+  width: 300px;
+  background-color: blue;
+}
+.cont2{
+  width: 100%;
+}
+
+.small{
+  padding: 8px;
+}
+.headerStyle{
+  background-color: lightgreen;
+  height: 50px;
+  width: 100%;
+
+}
